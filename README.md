@@ -1,11 +1,11 @@
 # DGR discovery
 ## Requirements
-blast 2.15.0+
-pandas 2.2.1+
-biopython 1.83+
-pyhmmer 0.10.9+
-pyrodigal-gv 0.3.1+
-rich 13.7.1+
+- blast 2.15.0+
+- pandas 2.2.1+
+- biopython 1.83+
+- pyhmmer 0.10.9+
+- pyrodigal-gv 0.3.1+
+- rich 13.7.1+
 
 ## How to run code
 
